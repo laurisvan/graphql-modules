@@ -23,7 +23,7 @@
   "devDependencies": {
     "@apollo/federation": "0.25.1",
     "@graphql-tools/merge": "6.2.14",
-    "@changesets/cli": "2.13.1",
+    "@changesets/cli": "2.16.0",
     "@types/benchmark": "2.1.0",
     "@types/express": "4.17.12",
     "@types/jest": "26.0.23",
