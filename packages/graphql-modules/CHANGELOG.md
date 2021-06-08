@@ -1,5 +1,12 @@
 # graphql-modules
 
+## 1.4.3
+
+### Patch Changes
+
+- 2f36af1d: Use correct \_\_resolveObject signature
+- 2f36af1d: Adds a validation of typeDefs to be DocumentNodes
+
 ## 1.4.2
 
 ### Patch Changes
