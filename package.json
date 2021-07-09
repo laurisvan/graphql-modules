@@ -8,7 +8,6 @@
     "examples/*"
   ],
   "scripts": {
-    "postinstall": "patch-package",
     "build": "tsc --project tsconfig.json && bob build",
     "test": "jest",
     "prerelease": "yarn build",

@@ -1,0 +1,1 @@
+{"version":3,"file":"graphql.js","sourceRoot":"","sources":["../../../../packages/graphql-modules/src/testing/graphql.ts"],"names":[],"mappings":"AAKA,MAAM,UAAU,OAAO,CAIrB,GAAgB,EAChB,MAGC,EACD,OAEC;IAED,MAAM,QAAQ,GAAG,GAAG,CAAC,eAAe,CAAC,OAAO,CAAC,CAAC;IAE9C,OAAO,QAAQ,CAAC;QACd,MAAM,EAAE,GAAG,CAAC,MAAM;QAClB,GAAG,MAAM;KACV,CAA6C,CAAC;AACjD,CAAC"}
